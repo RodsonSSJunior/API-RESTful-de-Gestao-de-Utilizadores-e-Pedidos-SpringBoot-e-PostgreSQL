@@ -29,5 +29,13 @@ Durante o desenvolvimento desta API, apliquei conceitos fundamentais para sistem
 
 1. Clone este repositório:
    ```bash
-   git clone [(https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-SpringBoot-e-PostgreSQL.git)]
+   git clone [https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-Spring-Boot.git](https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-Spring-Boot.git)
    Importe o projeto na sua IDE de preferência (IntelliJ, Eclipse, VS Code).
+
+2. Passo crucial para o banco de dados: Abra o seu SGBD (pgAdmin, DBeaver, etc.) e crie um banco de dados PostgreSQL vazio chamado springboot_course.
+
+3. Verifique as credenciais: No arquivo src/main/resources/application.properties, confirme se as variáveis spring.datasource.username e spring.datasource.password correspondem ao seu usuário e senha locais do Postgres.
+
+4. Atualize as dependências do Maven.
+
+5. Execute a classe principal da aplicação. O Hibernate vai se encarregar de criar as tabelas (ddl-auto=update) e a API estará disponível em http://localhost:8080.
