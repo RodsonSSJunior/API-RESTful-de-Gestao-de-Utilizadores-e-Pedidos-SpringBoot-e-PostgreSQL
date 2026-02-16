@@ -29,7 +29,7 @@ Durante o desenvolvimento desta API, apliquei conceitos fundamentais para sistem
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-Spring-Boot.git](https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-Spring-Boot.git)
+   git clone [https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-SpringBoot-e-PostgreSQL.git](https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-SpringBoot-e-PostgreSQL.git)
    Importe o projeto na sua IDE de preferência (IntelliJ, Eclipse, VS Code).
 
 2. Passo crucial para o banco de dados: Abra o seu SGBD (pgAdmin, DBeaver, etc.) e crie um banco de dados PostgreSQL vazio chamado springboot_course.
