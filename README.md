@@ -29,5 +29,5 @@ Durante o desenvolvimento desta API, apliquei conceitos fundamentais para sistem
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/RodsonSSJunior/workshop-springboot-jpa.git](https://github.com/RodsonSSJunior/workshop-springboot-jpa.git)
+   git clone [(https://github.com/RodsonSSJunior/API-RESTful-de-Gestao-de-Utilizadores-e-Pedidos-SpringBoot-e-PostgreSQL.git)]
    Importe o projeto na sua IDE de preferência (IntelliJ, Eclipse, VS Code).
